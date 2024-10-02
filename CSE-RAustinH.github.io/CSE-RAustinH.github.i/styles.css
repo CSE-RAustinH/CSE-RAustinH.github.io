@@ -13,3 +13,24 @@ h2{
     margin-left: 50px;
     text-decoration: underline;
 }
+a{
+    text-decoration: none;
+    color: gold;
+}
+.project{
+    width: 30%;
+    margin: 10px;
+    background: gold;
+}
+.project p{
+    text-align: center;
+    margin: 15px;
+}
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid whitesmoke;
+    display: block;
+    margin: auto;
+}
