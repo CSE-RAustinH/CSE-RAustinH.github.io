@@ -17,6 +17,10 @@ a{
     text-decoration: none;
     color: whitesmoke;
 }
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+}
 .project{
     width: 30%;
     margin: 10px;
