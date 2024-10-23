@@ -27,10 +27,10 @@ a{
 }
 
 .about img {
-    width: 150px;
-    height: 200px;
+    width: 250px;
+    height: 350px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid rgb(255, 255, 255);
 }
 
 .about p {
@@ -38,6 +38,7 @@ a{
     text-align: center;
     margin: auto;
     line-height: 125%;
+    background-color: white;
 }
 
 .projects{
